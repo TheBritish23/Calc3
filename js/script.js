@@ -1,4 +1,5 @@
 // Business logic not included because it will remain the same.
+
 var add = function(number1, number2) {
   return number1 + number2;
 };
